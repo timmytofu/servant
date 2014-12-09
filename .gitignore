@@ -1,0 +1,5 @@
+.ghci
+.cabal-sandbox/
+cabal.sandbox.config
+log/
+dist/
